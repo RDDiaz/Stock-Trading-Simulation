@@ -2,7 +2,7 @@
 Stock Trading Simulation 
 
 ## Project Description
-Created using Codeblocks 13.12\
+Created using Codeblocks 13.12
 
 This project was part of our lessons on inheritance.
 
